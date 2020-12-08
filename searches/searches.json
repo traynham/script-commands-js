@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Google",
+		"shortcut": "g",
+		"aliases": "goo",
+		"default": true,
+		"url": "https://www.google.com/search?q=",
+		"group": "web"
+	},
+	{
+		"name": "DuckDuckGo",
+		"shortcut": "d",
+		"default": true,
+		"url": "https://duckduckgo.com/?q=",
+		"group": "web"
+	},
+	{
+		"name": "NPM",
+		"shortcut": "n",
+		"aliases": ["npm"],
+		"url": "https://www.npmjs.com/search?q=",
+		"group": "node"
+	},
+	{
+		"name": "MDN",
+		"shortcut": "m",
+		"url": "https://developer.mozilla.org/en-US/search?topic=js&q=",
+		"group": "js"
+	},
+	{
+		"name": "Grep App",
+		"shortcut": "grep",
+		"url": "https://grep.app/search?filter[lang][0]=JavaScript&q=",
+		"group": "js"
+	},
+	{
+		"name": "YouTube",
+		"shortcut": "yt",
+		"url": "https://www.youtube.com/results?search_query=",
+		"group": "video"
+	},
+	{
+		"name": "Subreddit",
+		"shortcut": "r",
+		"aliases": ["/r", "red"],
+		"url": "https://www.reddit.com/r/"
+	},
+	{
+		"name": "NPM Jump To",
+		"shortcut": "njt",
+		"url": "https://njt.now.sh/jump?to="
+	}
+]
