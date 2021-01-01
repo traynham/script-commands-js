@@ -2,7 +2,7 @@
 
 // Required parameters:
 // @raycast.schemaVersion 1
-// @raycast.title Merge Front Two Safari Window
+// @raycast.title Merge Front Two Safari Windows
 // @raycast.mode silent
 //
 // Optional parameters:
@@ -12,7 +12,7 @@
 // Documentation:
 // @raycast.author Jesse Traynham
 // @raycast.authorURL https://github.com/traynham
-// @raycast.description Merge Front Two Safari Window
+// @raycast.description Merge Front Two Safari Windows
 
 function run(argv){
 
