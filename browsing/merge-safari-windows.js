@@ -7,7 +7,7 @@
 //
 // Optional parameters:
 // @raycast.packageName Browsing
-// # @raycast.icon 🧭
+// @raycast.icon 🧭
 //
 // Documentation:
 // @raycast.author Jesse Traynham
