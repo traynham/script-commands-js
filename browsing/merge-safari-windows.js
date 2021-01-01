@@ -14,7 +14,7 @@
 // @raycast.authorURL https://github.com/traynham
 // @raycast.description Merge Front Two Safari Windows
 
-function run(argv){
+function run(){
 
 	const Safari = Application('Safari')
 	const window1 = Safari.windows[0]
