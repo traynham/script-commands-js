@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages! So here then.
+## Welcome to GitHub Pages! So here then. Yes.
 
 You can use the [editor on GitHub](https://github.com/traynham/script-commands-js/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
